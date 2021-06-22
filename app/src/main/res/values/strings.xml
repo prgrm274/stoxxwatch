@@ -9,4 +9,15 @@
     <string name="your_watchlist">Your Watchlist</string>
     <string name="choose">Choose your interests to follow and trade on your terms.</string>
     <string name="follow">Follow</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="phone_number">phone number</string>
+    <string name="otp">OTP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="didnt_receive_an_otp">Did not receive an OTP?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="submit">Submit</string>
+    <string name="register">Login</string>
 </resources>

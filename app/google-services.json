@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785333694459",
+    "project_id": "stoxxwatch-2dbce",
+    "storage_bucket": "stoxxwatch-2dbce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785333694459:android:752ea3aa8a36f9ad1c255e",
+        "android_client_info": {
+          "package_name": "com.programmer2704.stoxxwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785333694459-2i8agc7m2ibpl4o6l3qlv674ie4pvu2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmer2704.stoxxwatch",
+            "certificate_hash": "fb2d4cd21bdebba24466081b0853d6f82ae1e4f0"
+          }
+        },
+        {
+          "client_id": "785333694459-8r0m5cm08dplsaau69lfvtkmjt6a8gmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuS9IHbK6FeRCQSflHlxSPS1tdv5nWyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785333694459-8r0m5cm08dplsaau69lfvtkmjt6a8gmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

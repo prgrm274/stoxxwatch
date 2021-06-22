@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.crazzyghost.stoxxwatch.ui.home.HomeFragment"
+        android:name="com.programmer2704.stoxxwatch.ui.home.HomeFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_portfolio"
-        android:name="com.crazzyghost.stoxxwatch.ui.portfolio.PortfolioFragment"
+        android:name="com.programmer2704.stoxxwatch.ui.portfolio.PortfolioFragment"
         android:label="@string/title_portfolio"
         tools:layout="@layout/fragment_portfolio" />
 

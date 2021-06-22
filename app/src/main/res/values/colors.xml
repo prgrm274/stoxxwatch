@@ -8,4 +8,5 @@
     <color name="color_blue_item">#0080FF</color>
     <color name="color_green_item">#59FF00</color>
     <color name="blue_button">#3C40FB</color>
+    <color name="red_login">#E54643</color>
 </resources>

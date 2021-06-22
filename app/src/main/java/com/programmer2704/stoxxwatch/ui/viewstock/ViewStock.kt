@@ -49,7 +49,7 @@ class ViewStock : AppCompatActivity(), ViewStockContract.View {
         lineChartGraph.setPinchZoom(true)
         lineChartGraph.axisRight.isEnabled = false
         lineChartGraph.axisLeft.isEnabled = true
-        lineChartGraph.axisLeft.axisLineColor = Color.parseColor("#FFFFFFFF")
+        lineChartGraph.axisLeft.axisLineColor = Color.parseColor("#00000000")
         lineChartGraph.axisLeft.setDrawAxisLine(false)
         lineChartGraph.axisLeft.setDrawTopYLabelEntry(false)
         lineChartGraph.axisLeft.setDrawLabels(false)
@@ -114,7 +114,7 @@ class ViewStock : AppCompatActivity(), ViewStockContract.View {
             dataSet.setDrawCircles(false)
             dataSet.setDrawValues(false)
             dataSet.resetColors()
-            dataSet.color = Color.parseColor("#FFFFFFFF")
+            dataSet.color = Color.parseColor("#00000000")
             dataSet.mode = LineDataSet.Mode.CUBIC_BEZIER
             val data = LineData(dataSet)
             lineChartGraph.data = data
